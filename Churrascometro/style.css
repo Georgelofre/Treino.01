@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+section {
+    color: rgb(224, 236, 246);
+    background-color: rgb(13, 127, 192);
+    width: min-content;
+    padding: 20px;
+    margin: 30px auto;
+    border-radius: 20px;
+    font-size: 15pt;
+
+}
+
+p {
+    padding: 10px;
+
+}
